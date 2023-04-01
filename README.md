@@ -1,5 +1,9 @@
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
 # 💫 About Me:
-👨‍💻 I'm currently mastering web/mobile development skills.<br>🤝 I'm looking to collaborate with frontend developers.<br>🤯 I'm looking for help with my backend development skills.<br>📖 I'm currently learning flutter and Laravel framework.<br>💬 Ask me anything about web design and development.<br>⚡I'm on journey to become a Full stack Developer.
+👨‍💻 I'm currently mastering web/mobile development skills.<br>🤝 I'm looking to collaborate with frontend developers.<br>🤯 I'm looking for help with upgrading my backend development skills.<br>📖 I'm currently learning flutter and Laravel framework.<br>💬 Ask me anything about web design and development.<br>⚡I'm on journey to become a Full stack Developer.
 
 
 ## 🌐 Socials:
@@ -24,7 +28,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nareshcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
- If you like what i do, maybe consider following me on github. 🥺
+ If you like what i do, maybe consider following me on github. 🥺 Happy Coding 🤗❤️
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
