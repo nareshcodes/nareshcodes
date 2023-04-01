@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-👨‍💻 I'm currently mastering web/mobile development skills.<br>🤝 I'm looking to collaborate with frontend developers.<br>🤯 I'm looking for help with upgrading my backend development skills.<br>📖 I'm currently learning flutter and Laravel framework.<br>💬 Ask me anything about web design and development.<br>⚡I'm on journey to become a Full stack Developer.
+👨‍💻 I'm currently mastering web & mobile development skills.<br>🤝 I'm looking to collaborate with frontend developers.<br>🤯 I'm looking for help with upgrading my backend development skills.<br>📖 I'm currently learning flutter and Laravel framework.<br>💬 Ask me anything about web design and development.<br>⚡I'm on journey to become a Full stack Developer.
 
 
 ## 🌐 Socials:
