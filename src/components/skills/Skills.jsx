@@ -4,25 +4,25 @@ import VisibilitySensor from "react-visibility-sensor";
 
 const skillContent = [
   {
-    name: "HTML5",
+    name: "HTML5/Css3",
     numberPercent: "92",
     startCount: "0",
     endCount: "92",
   },
   {
-    name: "Bootstrap",
+    name: "Bootstrap Framework",
     numberPercent: "90",
     startCount: "0",
     endCount: "90",
   },
   {
-    name: "Flutter",
+    name: "Flutter App Development",
     numberPercent: "85",
     startCount: "0",
     endCount: "85",
   },
   {
-    name: "Laravel",
+    name: "Laravel Framework",
     numberPercent: "80",
     startCount: "0",
     endCount: "80",

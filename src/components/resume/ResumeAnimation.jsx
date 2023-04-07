@@ -54,7 +54,7 @@ const educatonContent = [
   },
   {
     passingYear: "2018 - 2020",
-    degreeTitle: "Web Development",
+    degreeTitle: "Full stack Development",
     instituteName: "Broadway Infosys",
   },
 ];
