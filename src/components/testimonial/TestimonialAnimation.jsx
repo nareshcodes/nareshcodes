@@ -32,8 +32,8 @@ export default function SimpleSlider() {
   const TestimonilContent = [
     {
       imageName: "team-1",
-      desc: `  I highly recommend for anyone in need of a professional and reliable web developer. They were easy to work with, communicative, and always delivered work on time. Their ability to turn my vision into a reality was truly impressive.`,
-      reviewerName: "It Training Nepal",
+      desc: `  I highly recommend Naresh for anyone in need of a professional and reliable web developer. They were easy to work with, communicative, and always delivered work on time. Their ability to turn my vision into a reality was truly impressive.`,
+      reviewerName: "IT Training Nepal",
       designation: "CEO @ Eprabidihi",
       delayAnimation: "",
     },

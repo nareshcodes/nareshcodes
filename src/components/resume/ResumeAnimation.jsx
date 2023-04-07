@@ -29,7 +29,7 @@ const resumeContent = [
     jobType: `App Developer | Intern`,
     jobDuration: `Aug 2022 - November 2023`,
     timeDuraton: `Full Time`,
-    compnayName: "Code It",
+    compnayName: "Code IT",
     jobDescription: ` Designed and developed user-friendly Flutter applications.
     Collaborated with product owners and designers to implement new features and enhancements.
     Implemented and maintained robust and scalable codebase using clean architecture and best practices.
@@ -50,7 +50,7 @@ const educatonContent = [
   {
     passingYear: "2022- 2023",
     degreeTitle: "Flutter/Laravel Development",
-    instituteName: "Code It",
+    instituteName: "Code IT",
   },
   {
     passingYear: "2018 - 2020",
