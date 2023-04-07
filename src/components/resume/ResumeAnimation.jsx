@@ -42,17 +42,20 @@ const resumeContent = [
 
 const educatonContent = [
   {
-    
+    passingYear: "2022 - Present",
     degreeTitle: "Bachelor in Computer Engineering",
     instituteName: "Purabanchal University School of Engineering",
   },
+  
   {
-    degreeTitle: "Web Development",
-    instituteName: "Broadway Infosys",
-  },
-  {
+    passingYear: "2022- 2023",
     degreeTitle: "Flutter/Laravel Development",
     instituteName: "Code It",
+  },
+  {
+    passingYear: "2018 - 2020",
+    degreeTitle: "Web Development",
+    instituteName: "Broadway Infosys",
   },
 ];
 
