@@ -10,22 +10,22 @@ const skillContent = [
     endCount: "92",
   },
   {
-    name: "React JS",
-    numberPercent: "85",
-    startCount: "0",
-    endCount: "85",
-  },
-  {
-    name: "Vue Js",
+    name: "Bootstrap",
     numberPercent: "90",
     startCount: "0",
     endCount: "90",
   },
   {
-    name: "Ui/Ux",
-    numberPercent: "88",
+    name: "Flutter",
+    numberPercent: "85",
     startCount: "0",
-    endCount: "88",
+    endCount: "85",
+  },
+  {
+    name: "Laravel",
+    numberPercent: "80",
+    startCount: "0",
+    endCount: "80",
   },
 ];
 

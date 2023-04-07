@@ -3,61 +3,56 @@ import Skills from "../skills/Skills";
 
 const resumeContent = [
   {
-    jobPosition: `Sr. Front-end Engineer`,
-    jobType: `Google | Remote`,
-    jobDuration: `Feb 2021 - Present`,
+    jobPosition: `Web Designer`,
+    jobType: `web Designer | Remote`,
+    jobDuration: `Feb 2017 - June 2017`,
     timeDuraton: `Full Time`,
-    compnayName: "Google LLC",
-    jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "IT Training Nepal",
+    jobDescription: `Designed and developed user-friendly and visually appealing websites for clients across various industries.
+    Collaborated with cross-functional teams to ensure projects were completed on-time and within budget.
+    Conducted user research and usability testing to inform design decisions and optimize user experience.
+    Managed multiple projects simultaneously and communicated progress and updates to clients and team members.   
+    Stayed up-to-date with industry trends and technologies to continually improve design skills and deliver cutting-edge solutions.`,
     delayAnimation: "",
   },
   {
-    jobPosition: `Visual Designer`,
-    jobType: `Ridian | Remote`,
-    jobDuration: `Mar 2020 - Present`,
+    jobPosition: `Junior Web Developer`,
+    jobType: `Php Developer| Intern`,
+    jobDuration: `Mar 2020 - October 2020`,
     timeDuraton: `Part Time`,
-    compnayName: "Ridian IT",
-    jobDescription: `Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-    irure dolor. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.`,
+    compnayName: "Broadway Infosys",
+    jobDescription: `Designed and developed user-friendly, responsive websites using HTML, CSS, Bootstrap and JavaScript. I collaborated with cross-functional teams, including designers and project managers, to ensure timely delivery of high-quality projects. I also maintained and updated existing websites, ensuring that they were optimized for performance and user experience. During my tenure, I gained experience with various content management systems and front-end frameworks, and honed my skills in troubleshooting and problem-solving.`,
     delayAnimation: "100",
   },
   {
-    jobPosition: `Animation Artist`,
-    jobType: `IbThemes | Remote`,
-    jobDuration: `Jan 2019 - Present`,
+    jobPosition: `Flutter App Developer`,
+    jobType: `App Developer | Intern`,
+    jobDuration: `Aug 2022 - November 2023`,
     timeDuraton: `Full Time`,
-    compnayName: "IB Themes",
-    jobDescription: ` Consectetur adipisicing elit,lorem ipsum dolor sit amet,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "Code It",
+    jobDescription: ` Designed and developed user-friendly Flutter applications.
+    Collaborated with product owners and designers to implement new features and enhancements.
+    Implemented and maintained robust and scalable codebase using clean architecture and best practices.
+    Debugged and resolved technical issues, ensuring high-quality code and timely delivery.
+    Contributed to the development of a mobile application framework and provided mentorship to junior developers.
+    Stayed up-to-date with the latest trends and advancements in mobile app development, and proposed improvements to the existing codebase.`,
     delayAnimation: "200",
   },
 ];
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
-    degreeTitle: "Ph.D in Horriblensess",
-    instituteName: "University Of Evil Doing",
+    
+    degreeTitle: "Bachelor in Computer Engineering",
+    instituteName: "Purabanchal University School of Engineering",
   },
   {
-    passingYear: "2013-2016",
-    degreeTitle: "Bsc. in Computer Science",
-    instituteName: "World University",
+    degreeTitle: "Web Development",
+    instituteName: "Broadway Infosys",
   },
   {
-    passingYear: "2010-2012",
-    degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
+    degreeTitle: "Flutter/Laravel Development",
+    instituteName: "Code It",
   },
 ];
 
