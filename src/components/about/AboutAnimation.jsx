@@ -2,7 +2,6 @@ import React from "react";
 import Social from "../Social";
 import Testimonials from "../testimonial/TestimonialAnimation";
 import Services from "../service/ServiceAnimation";
-import Awards from "../award/AwardsAnimation";
 
 const About = () => {
   return (
@@ -142,24 +141,7 @@ const About = () => {
 
           {/* End .row */}
 
-          {/* separated */}
-          <div
-            className="separated"
-            style={{
-              backgroundImage: `url(${
-                process.env.PUBLIC_URL + "img/border-dark.png"
-              })`,
-            }}
-          ></div>
-          {/* End separated */}
-
-          <div className="title">
-            <h3>Awards.</h3>
-          </div>
-
-          <Awards />
-          {/* End Awards */}
-
+          
           {/* separated */}
           <div
             className="separated"
